@@ -6,6 +6,8 @@ A geospatial image analysis application that performs change detection and image
 
 GeoScan is a web-based application that uses machine learning to detect environmental changes and segment regions in satellite or aerial images. The system combines a Python Flask backend with TensorFlow for image processing and a modern web frontend.
 
+Live Demo / Deployed: https://geo-scan-lake.vercel.app/
+
 ## Features
 
 - **Change Detection**: Identify changes between two satellite images
